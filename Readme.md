@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/Gunjan-dhande/Spotify-Clone">
-    <img src="img/ss.jpg" alt="Logo" width="1080" height="650">
+    <img src="img/ss.jpg" alt="Logo" width="1080" height="600">
   </a>
 
   <h3 align="center">Spotify-Clone</h3>
