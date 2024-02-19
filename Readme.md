@@ -1,9 +1,57 @@
-# Spotify Clone
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+<br />
+<br />
 
+<!-- PROJECT LOGO -->
+
+<p align="center">
+  <a href="https://github.com/Gunjan-dhande/Spotify-Clone">
+    <img src="img/ss.jpg" alt="Logo" width="250" height="250">
+  </a>
+
+  <h3 align="center">Spotify-Clone</h3>
+  
+  <p align="center">
+    <a href="https://gunjan-dhande.github.io/Spotify-Clone/"><strong>Check Its Live</strong></a><br>
+    <br />
+    <br />
+    <a href="https://github.com/Gunjan-dhande/Spotify-Clone">View Code</a>
+    ·
+    <a href="https://github.com/Gunjan-dhande/Spotify-Clone/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Gunjan-dhande/Spotify-Clone/issues">Request Feature</a>
+  </p>
+</p>
+
+
+1. Clone the repository:
+
+```bash
+https://gunjan-dhande.github.io/Spotify-Clone/
+```
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Description](#description)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [How does it work?](#how-does-it-work)
+- [Project Requirements](#project-requirements)
+- [License](#license)
+- [Contact](#contact)
+
+## Introduction
+This is a Spotify clone project aimed at replicating some of the functionalities of the popular music streaming service Spotify.
 This project is a clone of the popular music streaming service Spotify. It aims to replicate the core features and user experience of Spotify using modern web development technologies.
 
-## Features
+## Description
+The project aims to mimic the user interface and basic functionality of Spotify, allowing users to browse through a library of songs, create playlists, and play music. It does not aim to replicate the entire feature set of Spotify but rather provide a simplified version for educational and learning purposes.
 
+## Features
 - **User Authentication:** Users can sign up, log in, and log out securely.
 - **Browse:** Users can browse through a vast catalog of music, organized by genres, artists, albums, and playlists.
 - **Search:** Users can search for their favorite songs, artists, or albums.
@@ -20,39 +68,6 @@ This project is a clone of the popular music streaming service Spotify. It aims 
 - **Audio Playback:** HTML5 Audio API
 - **API:** Spotify Web API (for fetching music data)
 
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/spotify-clone.git
-
-# Spotify Clone
-
-## Table of Contents
-- [Introduction](#introduction)
-- [Description](#description)
-- [Features](#features)
-- [Usage](#usage)
-- [How does it work?](#how-does-it-work)
-- [Project Requirements](#project-requirements)
-- [License](#license)
-- [Contact](#contact)
-
-## Introduction
-This is a Spotify clone project aimed at replicating some of the functionalities of the popular music streaming service Spotify.
-
-## Description
-The project aims to mimic the user interface and basic functionality of Spotify, allowing users to browse through a library of songs, create playlists, and play music. It does not aim to replicate the entire feature set of Spotify but rather provide a simplified version for educational and learning purposes.
-
-## Features
-- User authentication and registration
-- Browse songs by categories
-- Search for specific songs or artists
-- Create and manage playlists
-- Play music with basic controls (play, pause, skip)
-
-## Usage
 To use this project, you can clone the repository and follow the installation instructions in the [How does it work?](#how-does-it-work) section.
 
 ## How does it work?
@@ -66,3 +81,5 @@ This project is licensed under the [insert license here]. See the [LICENSE](./LI
 
 ## Contact
 For any inquiries or feedback, feel free to contact the project maintainer at [insert email here].
+
+
